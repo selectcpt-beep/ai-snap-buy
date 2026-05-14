@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+auth_state.json
+.DS_Store
+.playwright-mcp/
+test_openai.*
